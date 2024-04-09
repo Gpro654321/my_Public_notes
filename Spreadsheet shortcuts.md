@@ -1,6 +1,10 @@
-| Short cut key | what it does    | Example    |
-| ------------- | --------------- | ---------- |
-| F4            | Fixes a formula | C4 -> $C$4 |
+| Short cut key        | what it does                                                                                 | Example    | Does it work in google sheets |
+| -------------------- | -------------------------------------------------------------------------------------------- | ---------- | ----------------------------- |
+| F4                   | Fixes a formula                                                                              | C4 -> $C$4 | Y                             |
+| Ctrl+Shift+Downarrow | Selects cells along a column until it reaches a blank cell                                   |            | Y                             |
+| Ctrl + H             | Find & Replace                                                                               |            | Y                             |
+| Ctrl+Shift+V         | Paste special -> Values only                                                                 |            | Y                             |
+| Ctrl + D             | copies the formula of the first cell of the selected range to the rest of the selected cells |            | Y                             |
 
 
 # Advantages of Using a table over a name range
