@@ -57,3 +57,7 @@ df3 = df1.merge(df2,how='left',on='id')
 new_col_order = ['c','b','a']
 df1 = df1[new_col_order]
 ```
+10. To save the dataframe to a csv file.
+```
+df.to_csv('path to file')
+```
